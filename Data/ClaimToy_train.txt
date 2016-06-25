@@ -1,0 +1,11 @@
+ClaimAmount,contract,Gender,Claim
+low,new,F,bad
+middle,old,F,bad
+middle,new,M,good
+low,new,M,bad
+high,new,M,good
+high,new,F,good
+middle,new,F,good
+high,old,F,good
+middle,old,M,bad
+low,old,F,bad
