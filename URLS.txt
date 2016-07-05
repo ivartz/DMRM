@@ -1,0 +1,10 @@
+http://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=other&numAtt=&numIns=&type=&sort=nameUp&view=table
+http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition
+http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
+http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+http://archive.ics.uci.edu/ml/datasets/Glass+Identification
+http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music#
+https://www.google.de/search?q=Fang+Zhou%2C+Claire+Q+and+Ross.+D.+King+Predicting+the+Geographical+Origin+of+Music%2C+ICDM%2C+2014&oq=Fang+Zhou%2C+Claire+Q+and+Ross.+D.+King++Predicting+the+Geographical+Origin+of+Music%2C+ICDM%2C+2014&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#safe=off&q=Predicting+the+Geographical+Origin+of+Music+pdf
+http://www.academia.edu/4489774/PREDICTING_THE_GEOGRAPHIC_ORIGIN_OF_WORLD_MUSICRetain_these_fake_authors_in_submission_to_preserve_the_formatting
+http://dl.acm.org/citation.cfm?id=2760532
+http://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
