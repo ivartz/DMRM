@@ -1,10 +1,8 @@
-http://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=other&numAtt=&numIns=&type=&sort=nameUp&view=table
-http://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition
-http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
-http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
-http://archive.ics.uci.edu/ml/datasets/Glass+Identification
-http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music#
-https://www.google.de/search?q=Fang+Zhou%2C+Claire+Q+and+Ross.+D.+King+Predicting+the+Geographical+Origin+of+Music%2C+ICDM%2C+2014&oq=Fang+Zhou%2C+Claire+Q+and+Ross.+D.+King++Predicting+the+Geographical+Origin+of+Music%2C+ICDM%2C+2014&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#safe=off&q=Predicting+the+Geographical+Origin+of+Music+pdf
-http://www.academia.edu/4489774/PREDICTING_THE_GEOGRAPHIC_ORIGIN_OF_WORLD_MUSICRetain_these_fake_authors_in_submission_to_preserve_the_formatting
+http://web.kku.ac.th/wichuda/DMining/4desc.pdf
+https://www.cs.cmu.edu/~schneide/tut5/node42.html
+http://ocw.mit.edu/courses/health-sciences-and-technology/hst-951j-medical-decision-support-spring-2003/lecture-notes/lecture13.pdf
+https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 http://dl.acm.org/citation.cfm?id=2760532
-http://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
+http://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music#
+http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
+http://download.springer.com/static/pdf/936/chp%253A10.1007%252F978-3-319-23485-4_53.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-319-23485-4_53&token2=exp=1467829628~acl=%2Fstatic%2Fpdf%2F936%2Fchp%25253A10.1007%25252F978-3-319-23485-4_53.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-319-23485-4_53*~hmac=3c2a43046e1dce24b52d2dd955cbef10ae4043b270e7498230fd43be9f52a27a
